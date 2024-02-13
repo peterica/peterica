@@ -36,7 +36,7 @@ jobs:
           python readme_update.py
 
       - name: Commit README
-        run: |          
+        run: |
           git add .
           git config --local user.email "ilovefran.ofm@gmail.com"
           git config --local user.name "Peter Seo"
