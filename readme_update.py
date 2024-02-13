@@ -1,8 +1,8 @@
 import feedparser, datetime
 
 # 로컬 테스트 시 ssl 인증서 문제 해결용
-#import ssl
-#ssl._create_default_https_context = ssl._create_unverified_context
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 
 # rss 추출
 feed = feedparser.parse("https://peterica.tistory.com/rss")
