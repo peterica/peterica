@@ -1,4 +1,12 @@
+import feedparser, datetime
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 
+# rss 추출
+feed = feedparser.parse("https://peterica.tistory.com/rss")
+
+# README 양식
+markdown_text = """
 ###  🐱 github stats  
 
 <div id="main" align="center">
@@ -18,4 +26,14 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/555"> Jupyter nodebook 라이브러리 추가방법, Jupyter nodebook pip install 방법 </a> <br><a href ="https://peterica.tistory.com/553"> [Github] Repository 합치기 </a> <br><a href ="https://peterica.tistory.com/552"> 마크다운(Markdown)-링크 삽입 </a> <br><a href ="https://peterica.tistory.com/551"> [블로그] Github Action 사용법, undefined method excerpt_separator 빌드 오류 해결 </a> <br><a href ="https://peterica.tistory.com/550"> [git] 체리픽 Cherry-pick, feature 로그 깔끔하게 merge하기 </a> <br>
+"""
+
+# 최근 블로그 5개를 추가
+for i in feed['entries'][:5]:
+    markdown_text += f"<a href =\"{i['link']}\"> {i['title']} </a> <br>"
+    # print(i['link'], i['title'])
+
+# print(markdown_text)
+f = open("README.md",mode="w", encoding="utf-8")
+f.write(markdown_text)
+f.close()
