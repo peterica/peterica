@@ -18,4 +18,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/560"> [flutter] 안드로이드 웹뷰 URL 호출 에러 ERR_CLEARTEXT_NOT_PERMITTED </a> <br><a href ="https://peterica.tistory.com/559"> 윈도우 공유파일 설정 방법 </a> <br><a href ="https://peterica.tistory.com/558"> 맥에서 파일 공유 활성방법 </a> <br><a href ="https://peterica.tistory.com/557"> [kubernetes] CDK8s 다중 클러스터 생성 방법(feat. cdk8s example) </a> <br><a href ="https://peterica.tistory.com/556"> [Git] 깃허브(Github) 프로필 README 추가방법 </a> <br><a href ="https://peterica.tistory.com/555"> Jupyter nodebook 라이브러리 추가방법, Jupyter nodebook pip install 방법 </a> <br>
+<a href ="https://peterica.tistory.com/155"> [Redis] 쿠버네티스 환경에서 Redis 모니터링의 필요성 </a> <br><a href ="https://peterica.tistory.com/560"> [flutter] 안드로이드 웹뷰 URL 호출 에러 ERR_CLEARTEXT_NOT_PERMITTED </a> <br><a href ="https://peterica.tistory.com/559"> 윈도우 공유파일 설정 방법 </a> <br><a href ="https://peterica.tistory.com/558"> 맥에서 파일 공유 활성방법 </a> <br><a href ="https://peterica.tistory.com/557"> [kubernetes] CDK8s 다중 클러스터 생성 방법(feat. cdk8s example) </a> <br><a href ="https://peterica.tistory.com/556"> [Git] 깃허브(Github) 프로필 README 추가방법 </a> <br>
