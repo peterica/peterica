@@ -18,4 +18,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/380"> [MSA] 12가지 마이크로서비스 패턴 </a> <br><a href ="https://peterica.tistory.com/583"> [MSA] 마이크로서비스란? </a> <br><a href ="https://peterica.tistory.com/582"> [MSA] 마이크로서비스란? - 배민 마이크로서비스 여행기를 보고... </a> <br><a href ="https://peterica.tistory.com/581"> [MSA] 마이크로서비스 - 분산 트랜잭션 처리를 위한 Saga 패턴 </a> <br><a href ="https://peterica.tistory.com/580"> [MySQL] 인덱스(Index) 정리 및 효율화 방법 </a> <br><a href ="https://peterica.tistory.com/579"> [AI] 구글 오픈 AI, 젬마(Gemma) Python으로 사용해 보기 </a> <br>
+<a href ="https://peterica.tistory.com/584"> [MSA] CQRS 패턴, B마트 전시 도메인 CQRS 적용하기를 보고... </a> <br><a href ="https://peterica.tistory.com/380"> [MSA] 12가지 마이크로서비스 패턴 </a> <br><a href ="https://peterica.tistory.com/583"> [MSA] 마이크로서비스란? </a> <br><a href ="https://peterica.tistory.com/582"> [MSA] 마이크로서비스란? - 배민 마이크로서비스 여행기를 보고... </a> <br><a href ="https://peterica.tistory.com/581"> [MSA] 마이크로서비스 - 분산 트랜잭션 처리를 위한 Saga 패턴 </a> <br><a href ="https://peterica.tistory.com/580"> [MySQL] 인덱스(Index) 정리 및 효율화 방법 </a> <br>
