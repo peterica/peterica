@@ -18,4 +18,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/683"> 유튜브 광고 차단 방법 - 설치 </a> <br><a href ="https://peterica.tistory.com/682"> 유튜브 광고 차단 방법 - 스크립트(v24.06.07) </a> <br><a href ="https://peterica.tistory.com/677"> [kotlin] 코틀린 코루틴의 정석 - 일시 중단 함수 </a> <br><a href ="https://peterica.tistory.com/676"> [kotlin] 코틀린 코루틴의 정석- 예외처리 </a> <br><a href ="https://peterica.tistory.com/680"> Peterica 사진 </a> <br><a href ="https://peterica.tistory.com/675"> [kotlin] 코틀린 코루틴의 정석- 구조화된 동시성(Structured Concurrency) </a> <br>
+<a href ="https://peterica.tistory.com/678"> [kotlin] 코틀린 코루틴의 정석 - 코루틴의 이해 </a> <br><a href ="https://peterica.tistory.com/683"> 유튜브 광고 차단 방법 - 설치 </a> <br><a href ="https://peterica.tistory.com/682"> 유튜브 광고 차단 방법 - 스크립트(v24.06.07) </a> <br><a href ="https://peterica.tistory.com/677"> [kotlin] 코틀린 코루틴의 정석 - 일시 중단 함수 </a> <br><a href ="https://peterica.tistory.com/676"> [kotlin] 코틀린 코루틴의 정석- 예외처리 </a> <br><a href ="https://peterica.tistory.com/680"> Peterica 사진 </a> <br>
