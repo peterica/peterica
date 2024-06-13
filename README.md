@@ -18,4 +18,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/688"> [Spring] JDBC와 MyBatis와 JPA 비교, 시대적 흐름에서 장단점 분석 </a> <br><a href ="https://peterica.tistory.com/681"> [kotlin] 코틀린 코루틴의 정석 - CoroutineScope의 start 옵션 </a> <br><a href ="https://peterica.tistory.com/686"> 유튜브 광고 차단 방법 - Brave 브라우저 설치방법 </a> <br><a href ="https://peterica.tistory.com/679"> [kotlin] 코틀린 코루틴의 정석 - 비동기 다중 스레드 시  공유 데이터 정합성 문제 </a> <br><a href ="https://peterica.tistory.com/678"> [kotlin] 코틀린 코루틴의 정석 - 코루틴의 이해 </a> <br><a href ="https://peterica.tistory.com/683"> 유튜브 광고 차단 방법 - 크롬확장프로그램을 이용한 광고 제거 </a> <br>
+<a href ="https://peterica.tistory.com/685"> [kotlin] 코틀린 코루틴 디버깅 옵션설정 방법 </a> <br><a href ="https://peterica.tistory.com/688"> [Spring] JDBC와 MyBatis와 JPA 비교, 시대적 흐름에서 장단점 분석 </a> <br><a href ="https://peterica.tistory.com/681"> [kotlin] 코틀린 코루틴의 정석 - CoroutineScope의 start 옵션 </a> <br><a href ="https://peterica.tistory.com/686"> 유튜브 광고 차단 방법 - Brave 브라우저 설치방법 </a> <br><a href ="https://peterica.tistory.com/679"> [kotlin] 코틀린 코루틴의 정석 - 비동기 다중 스레드 시  공유 데이터 정합성 문제 </a> <br><a href ="https://peterica.tistory.com/678"> [kotlin] 코틀린 코루틴의 정석 - 코루틴의 이해 </a> <br>
