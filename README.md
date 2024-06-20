@@ -18,4 +18,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/593"> [정처기 실기] 24년 1회 정보처리기사 실기 합격 후기 </a> <br><a href ="https://peterica.tistory.com/691"> [MySQL] MySQL과 Java의 SSL 연결 방법 </a> <br><a href ="https://peterica.tistory.com/690"> REST API에서 PATCH와 PUT의 차이점 </a> <br><a href ="https://peterica.tistory.com/689"> [JAVA] Stream의 병렬 처리 장점, Parallel Stream </a> <br><a href ="https://peterica.tistory.com/684"> [kotlin] 코틀린 코루틴의 정석 - 무제한 디스패처(Unconfined Dispatcher) </a> <br><a href ="https://peterica.tistory.com/687"> [kotlin] 코틀린 코루틴의 정석 - 코루틴의 동작 원리(Coroutine과 Continuation) </a> <br>
+<a href ="https://peterica.tistory.com/693"> Ktor란? </a> <br><a href ="https://peterica.tistory.com/593"> [정처기 실기] 24년 1회 정보처리기사 실기 합격 후기 </a> <br><a href ="https://peterica.tistory.com/691"> [MySQL] MySQL과 Java의 SSL 연결 방법 </a> <br><a href ="https://peterica.tistory.com/690"> REST API에서 PATCH와 PUT의 차이점 </a> <br><a href ="https://peterica.tistory.com/689"> [JAVA] Stream의 병렬 처리 장점, Parallel Stream </a> <br><a href ="https://peterica.tistory.com/684"> [kotlin] 코틀린 코루틴의 정석 - 무제한 디스패처(Unconfined Dispatcher) </a> <br>
