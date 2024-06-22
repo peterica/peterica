@@ -18,4 +18,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/692"> 네트워크 레이아웃에서 SSL이란? </a> <br><a href ="https://peterica.tistory.com/693"> Ktor란? </a> <br><a href ="https://peterica.tistory.com/593"> [정처기] 24년 1회 정보처리기사 합격 후기, 필기 문제집만으로 </a> <br><a href ="https://peterica.tistory.com/691"> [MySQL] MySQL과 Java의 SSL 연결 방법 </a> <br><a href ="https://peterica.tistory.com/690"> REST API에서 PATCH와 PUT의 차이점 </a> <br><a href ="https://peterica.tistory.com/689"> [JAVA] Stream의 병렬 처리 장점, Parallel Stream </a> <br>
+<a href ="https://peterica.tistory.com/694"> [Kotlin] Ktor Server 튜토리얼 실습 </a> <br><a href ="https://peterica.tistory.com/692"> 네트워크 레이아웃에서 SSL이란? </a> <br><a href ="https://peterica.tistory.com/693"> Ktor란? </a> <br><a href ="https://peterica.tistory.com/593"> [정처기] 24년 1회 정보처리기사 합격 후기, 필기 문제집만으로 </a> <br><a href ="https://peterica.tistory.com/691"> [MySQL] MySQL과 Java의 SSL 연결 방법 </a> <br><a href ="https://peterica.tistory.com/690"> REST API에서 PATCH와 PUT의 차이점 </a> <br>
