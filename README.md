@@ -18,4 +18,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/628"> [Spring] Gradle 프로젝트에서 테스트를 스킵하는 방법 </a> <br><a href ="https://peterica.tistory.com/293"> [Elasticsearch] 클러스터의 높은 메모리 사용률에 대한 원인 분석 방법 정리 </a> <br><a href ="https://peterica.tistory.com/156"> [MySQL] 중복체크를 위한 Count vs Limit vs Exists </a> <br><a href ="https://peterica.tistory.com/363"> [QueryDSL] fetchFirst()와 fetchOne()의 차이 </a> <br><a href ="https://peterica.tistory.com/164"> [Kotlin] ?(물음표)와 !!(느낌표 두개) </a> <br><a href ="https://peterica.tistory.com/422"> [Spring] JUnit5 조건부 테스트 실행방법 </a> <br>
+<a href ="https://peterica.tistory.com/697"> [Ktor] Kotlin + Ktor + Eposed 환경에서 MySQL 연동하기 </a> <br><a href ="https://peterica.tistory.com/628"> [Spring] Gradle 프로젝트에서 테스트를 스킵하는 방법 </a> <br><a href ="https://peterica.tistory.com/293"> [Elasticsearch] 클러스터의 높은 메모리 사용률에 대한 원인 분석 방법 정리 </a> <br><a href ="https://peterica.tistory.com/156"> [MySQL] 중복체크를 위한 Count vs Limit vs Exists </a> <br><a href ="https://peterica.tistory.com/363"> [QueryDSL] fetchFirst()와 fetchOne()의 차이 </a> <br><a href ="https://peterica.tistory.com/164"> [Kotlin] ?(물음표)와 !!(느낌표 두개) </a> <br>
