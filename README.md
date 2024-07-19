@@ -18,4 +18,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/708"> [Kotlin] kotlin에서 shell 실행하기 </a> <br><a href ="https://peterica.tistory.com/705"> [Kotlin] QueryDSL에서 YYYY-MM로 검색하기 </a> <br><a href ="https://peterica.tistory.com/706"> 터미널에서 맥미니 재기동 및 Docker 가동 방법 </a> <br><a href ="https://peterica.tistory.com/707"> [Kotlin] ManagementFactory을 이용한 JVM 모니터링 방법 </a> <br><a href ="https://peterica.tistory.com/704"> [Kotlin] kotlin 폴더 전체 삭제 방법 </a> <br><a href ="https://peterica.tistory.com/702"> [Kotlin] List 사용법 정리 </a> <br>
+<a href ="https://peterica.tistory.com/711"> [Kotlin] Spring에 MapStruct와 Lombok을 함께 사용할 때 isCompleted 필드가 null로 넘어오는 문제 </a> <br><a href ="https://peterica.tistory.com/709"> [Kotlin] Kotlin으로 Shell 유틸리티 만들기: 파일 복사와 압축 </a> <br><a href ="https://peterica.tistory.com/708"> [Kotlin] kotlin에서 shell 실행하기 </a> <br><a href ="https://peterica.tistory.com/705"> [Kotlin] QueryDSL에서 YYYY-MM로 검색하기 </a> <br><a href ="https://peterica.tistory.com/706"> 터미널에서 맥미니 재기동 및 Docker 가동 방법 </a> <br><a href ="https://peterica.tistory.com/707"> [Kotlin] ManagementFactory을 이용한 JVM 모니터링 방법 </a> <br>
