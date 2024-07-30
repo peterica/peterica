@@ -25,7 +25,8 @@ jobs:
       - name: Set up Python 5
         uses: actions/setup-python@v5    
         with:
-          node-version: '20'
+          python-version: '3.12'
+          
       # 라이브러리 추가작업
       - name: Install dependencies
         run: |
