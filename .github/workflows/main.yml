@@ -25,6 +25,7 @@ jobs:
       - name: Set up Python 3.10
         uses: actions/setup-python@v4
         with:
+          node-version: 20.0
           python-version: '3.10'
       # 라이브러리 추가작업
       - name: Install dependencies
