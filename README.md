@@ -18,4 +18,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/700"> [Kotlin] Spring Boot 멀티모듈 프로젝트 구성 </a> <br><a href ="https://peterica.tistory.com/742"> K-PaaS란? K-PaaS와 전자정부표준프레임워크 비교 </a> <br><a href ="https://peterica.tistory.com/739"> [Kotlin] Kotlin JDSL 문법 정리 </a> <br><a href ="https://peterica.tistory.com/712"> [Kotlin] QueryDSL의 Q클래스 생성 과정에서 Entity 참조 오류 해결 </a> <br><a href ="https://peterica.tistory.com/735"> [Kotlin] Kotlin에서 all-open과 no-arg의 필요성 </a> <br><a href ="https://peterica.tistory.com/724"> [Java] 리플렉션 (reflection) 개념 이해하기 </a> <br>
+<a href ="https://peterica.tistory.com/741"> [Spring] Spring Boot 시작 시 데이터베이스 초기화하기 </a> <br><a href ="https://peterica.tistory.com/700"> [Kotlin] Spring Boot 멀티모듈 프로젝트 구성 </a> <br><a href ="https://peterica.tistory.com/742"> K-PaaS란? K-PaaS와 전자정부표준프레임워크 비교 </a> <br><a href ="https://peterica.tistory.com/739"> [Kotlin] Kotlin JDSL 문법 정리 </a> <br><a href ="https://peterica.tistory.com/712"> [Kotlin] QueryDSL의 Q클래스 생성 과정에서 Entity 참조 오류 해결 </a> <br><a href ="https://peterica.tistory.com/735"> [Kotlin] Kotlin에서 all-open과 no-arg의 필요성 </a> <br>
