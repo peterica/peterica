@@ -18,4 +18,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/750"> FSL(Fair Source License)란? SaaS 기업의 무임승차 문제 해결 </a> <br><a href ="https://peterica.tistory.com/741"> [Spring] Spring Boot 시작 시 데이터베이스 초기화하기 </a> <br><a href ="https://peterica.tistory.com/700"> [Kotlin] Spring Boot 멀티모듈 프로젝트 구성 </a> <br><a href ="https://peterica.tistory.com/742"> K-PaaS란? K-PaaS와 전자정부표준프레임워크 비교 </a> <br><a href ="https://peterica.tistory.com/739"> [Kotlin] Kotlin JDSL 문법 정리 </a> <br><a href ="https://peterica.tistory.com/712"> [Kotlin] QueryDSL의 Q클래스 생성 과정에서 Entity 참조 오류 해결 </a> <br>
+<a href ="https://peterica.tistory.com/744"> [Kotlin] Paging query needs to have a Pageable parameter 문제 해결 </a> <br><a href ="https://peterica.tistory.com/750"> FSL(Fair Source License)란? SaaS 기업의 무임승차 문제 해결 </a> <br><a href ="https://peterica.tistory.com/741"> [Spring] Spring Boot 시작 시 데이터베이스 초기화하기 </a> <br><a href ="https://peterica.tistory.com/700"> [Kotlin] Spring Boot 멀티모듈 프로젝트 구성 </a> <br><a href ="https://peterica.tistory.com/742"> K-PaaS란? K-PaaS와 전자정부표준프레임워크 비교 </a> <br><a href ="https://peterica.tistory.com/739"> [Kotlin] Kotlin JDSL 문법 정리 </a> <br>
