@@ -32,7 +32,7 @@ markdown_text = """
 
 # 최근 블로그 추가
 for i in feed['entries'][:6]:
-    markdown_text += f"<a href =\"{i['link']}\"> {i['title']} </a> <br>"
+    markdown_text += f"<a href =\"{i['link']}\"> {i['title']} </a> <br>\n"
     # print(i['link'], i['title'])
 
 # print(markdown_text)
