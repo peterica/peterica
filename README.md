@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/424"> [Kotlin] Kotlin과 Builder 패턴 </a> <br>
+<a href ="https://peterica.tistory.com/761"> [AI] 인공 지능에 대한 공부 정리 </a> <br>
 <a href ="https://peterica.tistory.com/749"> [Macbook] kernel_task의 높은 CPU 사용량 해결방법 </a> <br>
 <a href ="https://peterica.tistory.com/748"> [Spring] Spring AOP 개념정리와 Pointcut 표현식 정리 </a> <br>
-<a href ="https://peterica.tistory.com/759"> [AI] 인공지능에 대한 이해 </a> <br>
+<a href ="https://peterica.tistory.com/759"> [AI] 인공지능에 대한 이해(2017에 정리한 리포트) </a> <br>
 <a href ="https://peterica.tistory.com/747"> [Kubernetes] 특정 API에 대한 접근을 제한하는 방법 </a> <br>
-<a href ="https://peterica.tistory.com/746"> [Spring] springboot에 외부 JAR 추가하기 </a> <br>
-<a href ="https://peterica.tistory.com/745"> [Kotlin] Spring 멀티모듈, JAR 파일로 배포하는 방법 </a> <br>
