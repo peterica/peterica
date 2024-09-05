@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/762"> [AI] 최근 대규모 언어 모델(LLM)의 급격한 성장 이유 </a> <br>
 <a href ="https://peterica.tistory.com/760"> [AI] Deep Learning에서의 Collapse (Collapsing) 현상 </a> <br>
 <a href ="https://peterica.tistory.com/758"> Nginx에서 특정 URL만 허용하는 방법 </a> <br>
 <a href ="https://peterica.tistory.com/757"> [Kotlin] 코틀린에서 null인 경우 분기처리하는 방법 </a> <br>
 <a href ="https://peterica.tistory.com/756"> [AI] 언어 모델의 병렬처리를 가능하게 한 트렌스포머(Transformer) 기술 </a> <br>
 <a href ="https://peterica.tistory.com/755"> [AI] Productivity Paradox란? </a> <br>
-<a href ="https://peterica.tistory.com/754"> [AI] 멀티모달(Multi Modal) AI란? </a> <br>
