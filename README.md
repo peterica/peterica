@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/775"> [GO] Goroutine과 Coroutine의 차이점 </a> <br>
 <a href ="https://peterica.tistory.com/774"> [GO] Go 언어의 장점 </a> <br>
 <a href ="https://peterica.tistory.com/773"> [Scala] 스칼라 함수형 프로그래밍 </a> <br>
 <a href ="https://peterica.tistory.com/772"> [Scala] 스칼라 기본 문법 정리 </a> <br>
 <a href ="https://peterica.tistory.com/766"> [AI] 뉴로모픽(Neuromorphic)이란? </a> <br>
 <a href ="https://peterica.tistory.com/767"> [AI] PIM(Processing In Memory)란? </a> <br>
-<a href ="https://peterica.tistory.com/764"> [AI] Amazon Bedrock  고객응대 서비스 구축 동영상 후기, 프롬프트 엔지니어링 </a> <br>
