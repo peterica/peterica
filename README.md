@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/787"> [Python] AI를 공부하면서 Python을 공부하는 이유 </a> <br>
+<a href ="https://peterica.tistory.com/729"> [CKAD] Udemy 문제 풀이 과정 중 몰랐던 문제 정리 </a> <br>
 <a href ="https://peterica.tistory.com/771"> [kubernetes] Pod의 생명 주기 </a> <br>
 <a href ="https://peterica.tistory.com/786"> [Node.js] NodeJS 기본문법 </a> <br>
 <a href ="https://peterica.tistory.com/776"> [Kotlin] Kotlin의 채널 소개 </a> <br>
 <a href ="https://peterica.tistory.com/781"> [Ansible] Ansible이란? </a> <br>
-<a href ="https://peterica.tistory.com/784"> 자기 자신으로 개발된 언어(자기 호스팅, 부트스트랩) </a> <br>
-<a href ="https://peterica.tistory.com/783"> [Node.js] PM2를 사용한 Node.js 애플리케이션 관리하기 </a> <br>
