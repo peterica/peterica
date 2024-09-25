@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="http://peterica.tistory.com/779"> [AI] 생성형 AI의 미래 산업, 검색의 시대에 대화의 시대, Business AI Agent란 </a> <br>
 <a href ="http://peterica.tistory.com/777"> [AI] 새로운 트랜드로서의 생성형AI 성장과정 정리, 클라우드에서 Ondevice AI </a> <br>
 <a href ="http://peterica.tistory.com/788"> [Elasticsearch] ElasticSearch 기본 정리 </a> <br>
 <a href ="http://peterica.tistory.com/787"> [Python] AI를 공부하면서 Python을 공부하는 이유 </a> <br>
 <a href ="http://peterica.tistory.com/729"> [CKAD] Udemy 문제 풀이 과정 중 몰랐던 문제 정리 </a> <br>
 <a href ="http://peterica.tistory.com/771"> [kubernetes] Pod의 생명 주기 </a> <br>
-<a href ="http://peterica.tistory.com/786"> [Node.js] NodeJS 기본문법 </a> <br>
