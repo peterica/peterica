@@ -18,7 +18,7 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/782"> [Ansible] Jenkins를 이용해 Ansible 배포하는 방법 </a> <br>
+<a href ="https://peterica.tistory.com/791"> [Network] GSLB, 글로벌 서버 로드 밸런싱이란? </a> <br>
 <a href ="https://peterica.tistory.com/789"> 공영주차장 차박 금지법, 주차장법 개정과 차박의 변화 </a> <br>
 <a href ="https://peterica.tistory.com/790"> [Node.js] Node.js 서버 사이드,찍먹하기 </a> <br>
 <a href ="https://peterica.tistory.com/361"> [Network] HTTP1.1, HTTP2.0, HTTP3.0의 차이점 </a> <br>
