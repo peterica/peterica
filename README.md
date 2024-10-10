@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/797"> [AI] 기계학습의 분류, 강화학습의 개념 정리 </a> <br>
+<a href ="https://peterica.tistory.com/796"> [AI] 강화학습의 개념 </a> <br>
+<a href ="https://peterica.tistory.com/761"> [AI] Peterica의 AI공부와 비젼 정리 </a> <br>
+<a href ="https://peterica.tistory.com/795"> Spring Data JPA와 ProxySQL의 읽기/쓰기 분리 방법 비교 </a> <br>
 <a href ="https://peterica.tistory.com/752"> ProxySQL이란 </a> <br>
 <a href ="https://peterica.tistory.com/794"> [Kubernetes] Spring Boot + Kubernetes 기반에서 웜업 적용하기 </a> <br>
-<a href ="https://peterica.tistory.com/793"> [Kubernetes] 쿠버네티스 API 버전별 제거된 API와 마이그레이션 API요약 표 </a> <br>
-<a href ="https://peterica.tistory.com/298"> [EKS] EKS v1.22 업그레이드, 작업노트 정리 </a> <br>
-<a href ="https://peterica.tistory.com/792"> [Docker] 맥북M1에 Oracle Database 설치 </a> <br>
-<a href ="https://peterica.tistory.com/740"> [Python] Python 기본 문법 정리 </a> <br>
