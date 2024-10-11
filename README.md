@@ -18,7 +18,7 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/797"> [AI] 기계학습의 분류, 강화학습의 개념 정리 </a> <br>
+<a href ="https://peterica.tistory.com/311"> [Spring] @Async를 활용한 비동기 처리 </a> <br>
 <a href ="https://peterica.tistory.com/796"> [AI] 강화학습의 개념 </a> <br>
 <a href ="https://peterica.tistory.com/761"> [AI] Peterica의 AI공부와 비젼 정리 </a> <br>
 <a href ="https://peterica.tistory.com/795"> Spring Data JPA와 ProxySQL의 읽기/쓰기 분리 방법 비교 </a> <br>
