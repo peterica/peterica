@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/761"> [AI] Peterica의 AI공부와 비젼 정리 </a> <br>
 <a href ="https://peterica.tistory.com/802"> [Node.js] Express 서버를 Docker에서 PM2로 기동하는 방법 </a> <br>
 <a href ="https://peterica.tistory.com/805"> [Linux] dig 명령어 사용법 총정리 </a> <br>
 <a href ="https://peterica.tistory.com/801"> [Shell] linux shell script 반복문 </a> <br>
 <a href ="https://peterica.tistory.com/800"> [Linux] 프로세스 백그라운드 실행방법: &amp;, nohub </a> <br>
 <a href ="https://peterica.tistory.com/798"> traceroute 명령어 사용법 </a> <br>
-<a href ="https://peterica.tistory.com/761"> [AI] Peterica의 AI공부와 비젼 정리 </a> <br>
