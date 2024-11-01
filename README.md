@@ -19,8 +19,8 @@
 ### 📕 Latest Blog Posts   
 
 <a href ="https://peterica.tistory.com/812"> [Grafana] grafana k6로 테스트 환경 구성(grafana, influxdb, k6) </a> <br>
-<a href ="https://peterica.tistory.com/815"> [Spring]JIB란? </a> <br>
 <a href ="https://peterica.tistory.com/804"> [Newwork] SIP (Session Initiation Protocol)정리 </a> <br>
 <a href ="https://peterica.tistory.com/813"> Apache Hive란? </a> <br>
 <a href ="https://peterica.tistory.com/811"> [Spring] Hadoop- Hive 컨넥션 유지 방법, @Scheduled </a> <br>
 <a href ="https://peterica.tistory.com/810"> [Docker] Docker와 pm2를 함께 사용하는 것이 불리한 이유 </a> <br>
+<a href ="https://peterica.tistory.com/809"> [nginx] Nginx의 허용IP와 Proxy_pass 설정 </a> <br>
