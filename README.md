@@ -18,7 +18,7 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/816"> Transcoding이란?, ffmpeg 기본 사용법 </a> <br>
+<a href ="https://peterica.tistory.com/816"> Transcoding이란? ffmpeg 기본 사용법 </a> <br>
 <a href ="https://peterica.tistory.com/812"> [Grafana] grafana k6로 테스트 환경 구성(grafana, influxdb, k6) </a> <br>
 <a href ="https://peterica.tistory.com/804"> [Newwork] SIP (Session Initiation Protocol)정리 </a> <br>
 <a href ="https://peterica.tistory.com/813"> Apache Hive란? </a> <br>
