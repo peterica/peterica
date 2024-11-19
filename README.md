@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/830"> Ingress-Nginx로 HTTP가 아닌TCP나 UDP 트래픽 노출하기 </a> <br>
 <a href ="https://peterica.tistory.com/829"> TinyStatus란, 간단하고 가벼운 상태 페이지 만들기 </a> <br>
 <a href ="https://peterica.tistory.com/828"> [Network] ICMP: 인터넷의 숨은 영웅 </a> <br>
 <a href ="https://peterica.tistory.com/827"> [Spring] JIB으로 JAVA 애플리케이션 컨테이너화하기 </a> <br>
 <a href ="https://peterica.tistory.com/826"> [Spring] RestTemplate의 Connection Timeout 설정과 에러 패턴 </a> <br>
 <a href ="https://peterica.tistory.com/825"> [Python] FastAPI: 현대적이고 빠른 웹 프레임워크 </a> <br>
-<a href ="https://peterica.tistory.com/824"> [AI] 슬라이딩 강유전: 메모리 기술의 새로운 지평 </a> <br>
