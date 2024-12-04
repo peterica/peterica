@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/835"> [Docker] Multi-stage 빌드로 Go 애플리케이션 최적화하기 </a> <br>
 <a href ="https://peterica.tistory.com/837"> [Docker] Rocky Linux9 설치 및 FFMPEG 설치방법 </a> <br>
 <a href ="https://peterica.tistory.com/834"> [Spring] @Cacheable 사용법 </a> <br>
 <a href ="https://peterica.tistory.com/833"> [Scala] flatMap과 match을 사용하는 법 </a> <br>
 <a href ="https://peterica.tistory.com/832"> 직장 내 괴롭힘, 우리가 알아야 할 것들 </a> <br>
 <a href ="https://peterica.tistory.com/831"> [GO] GO 언어란? </a> <br>
-<a href ="https://peterica.tistory.com/830"> Ingress-Nginx로 HTTP가 아닌TCP나 UDP 트래픽 노출하기 </a> <br>
