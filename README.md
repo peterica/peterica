@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/841"> 세이브-오토 잔여 금액 청구 안내 </a> <br>
+<a href ="https://peterica.tistory.com/839"> [GO] Intel Xeon 프로세서 빌드 방법, GOOS, GOARCH 설정 </a> <br>
+<a href ="https://peterica.tistory.com/836"> 훌륭한 개발 문화를 위해 RnR을 넘어선 협력의 힘, 품앗이 문화 </a> <br>
 <a href ="https://peterica.tistory.com/840"> [GO] Golang에서 http.Client를 이용한 프록시 설정방법 </a> <br>
 <a href ="https://peterica.tistory.com/838"> [Linux] sudo 명령어의 -E 옵션 알아보기 </a> <br>
 <a href ="https://peterica.tistory.com/835"> [Docker] Multi-stage 빌드로 Go 애플리케이션 최적화하기 </a> <br>
-<a href ="https://peterica.tistory.com/837"> [Docker] Rocky Linux9 설치 및 FFMPEG 설치방법 </a> <br>
-<a href ="https://peterica.tistory.com/834"> [Spring] @Cacheable 사용법 </a> <br>
-<a href ="https://peterica.tistory.com/833"> [Scala] flatMap과 match을 사용하는 법 </a> <br>
