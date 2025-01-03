@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/848"> [Docker] 멀티 플랫폼, --platform 옵션 사용법 </a> <br>
 <a href ="https://peterica.tistory.com/847"> 맥 파일 시스템에서 &quot;DJI_&quot; 접두사를 제거하는 shell script 작성 </a> <br>
 <a href ="https://peterica.tistory.com/846"> [linux] Set -xe 옵션, 디버깅 및 오류 처리 기능 </a> <br>
 <a href ="https://peterica.tistory.com/845"> [DevOps] Bamboo: DevOps와 CI/CD를 위한 강력한 도구 </a> <br>
 <a href ="https://peterica.tistory.com/843"> [k6] k6를 이용한 다중 부하 테스트 설정 및 실행 방법 </a> <br>
 <a href ="https://peterica.tistory.com/844"> [Docker] Docker 컨테이너에서 한국 시간(KST)을 적용하는 방법 </a> <br>
-<a href ="https://peterica.tistory.com/808"> [AI] 딥러닝 기초 - 하이퍼파라이터 튜닝: 모델 성능 최적화의 핵심 </a> <br>
