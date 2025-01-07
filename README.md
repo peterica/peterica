@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/852"> [Docker] MacOS에서 Docker 로그 파일 위치 찾기 </a> <br>
 <a href ="https://peterica.tistory.com/850"> Trivy: 컨테이너 이미지 취약점 스캐너 사용법 </a> <br>
 <a href ="https://peterica.tistory.com/849"> [Docker] Distroless 이미지란? </a> <br>
 <a href ="https://peterica.tistory.com/848"> [Docker] 멀티 플랫폼, --platform 옵션 사용법 </a> <br>
 <a href ="https://peterica.tistory.com/847"> 맥 파일 시스템에서 &quot;DJI_&quot; 접두사를 제거하는 shell script 작성 </a> <br>
 <a href ="https://peterica.tistory.com/846"> [linux] Set -xe 옵션, 디버깅 및 오류 처리 기능 </a> <br>
-<a href ="https://peterica.tistory.com/845"> [DevOps] Bamboo: DevOps와 CI/CD를 위한 강력한 도구 </a> <br>
