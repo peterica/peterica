@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/855"> [FFmpeg] FFprobe 사용법: 멀티미디어 파일 분석하기 </a> <br>
+<a href ="https://peterica.tistory.com/818"> [Docker] 도커파일의 EXPOSE와 &quot;docker run -p&quot; 명령의 차이점 </a> <br>
 <a href ="https://peterica.tistory.com/854"> [Docker] Ubuntu:22.04에 ffmpeg 설치 방법 </a> <br>
 <a href ="https://peterica.tistory.com/853"> [Docker] linux/ffmpeg을 이용한 무배포, ffmpeg 테스트 방법 </a> <br>
 <a href ="https://peterica.tistory.com/851"> [Docker] Docker Run 명령어 정리 </a> <br>
 <a href ="https://peterica.tistory.com/852"> [Docker] MacOS에서 Docker 로그 파일 위치 찾기 </a> <br>
-<a href ="https://peterica.tistory.com/850"> Trivy: 컨테이너 이미지 취약점 스캐너 사용법 </a> <br>
-<a href ="https://peterica.tistory.com/849"> [Docker] Distroless 이미지란? </a> <br>
