@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/859"> [Git] git에서 중간 커밋 합치기, squash </a> <br>
+<a href ="https://peterica.tistory.com/858"> [Docker] com.docker.vmnetd는 사용자의 컴퓨터를 손상시킵니다 이슈 해결 </a> <br>
+<a href ="https://peterica.tistory.com/857"> [Docker] Error saving credentials: error storing credentials 해결방법 </a> <br>
 <a href ="https://peterica.tistory.com/856"> [GO] Golang에서 Viper 사용하기: 설정 관리 도구 </a> <br>
 <a href ="https://peterica.tistory.com/855"> [FFmpeg] FFprobe 사용법: 멀티미디어 파일 분석하기 </a> <br>
 <a href ="https://peterica.tistory.com/818"> [Docker] 도커파일의 EXPOSE와 &quot;docker run -p&quot; 명령의 차이점 </a> <br>
-<a href ="https://peterica.tistory.com/854"> [Docker] Ubuntu:22.04에 ffmpeg 설치 방법 </a> <br>
-<a href ="https://peterica.tistory.com/853"> [Docker] linux/ffmpeg을 이용한 무배포, ffmpeg 테스트 방법 </a> <br>
-<a href ="https://peterica.tistory.com/851"> [Docker] Docker Run 명령어 정리 </a> <br>
