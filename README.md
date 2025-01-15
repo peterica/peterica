@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/860"> [Git] Linux 서버에서 SSH 키를 사용하여 GitHub에 접속하는 방법 </a> <br>
 <a href ="https://peterica.tistory.com/859"> [Git] git에서 중간 커밋 합치기, squash </a> <br>
 <a href ="https://peterica.tistory.com/858"> [Docker] com.docker.vmnetd는 사용자의 컴퓨터를 손상시킵니다 이슈 해결 </a> <br>
 <a href ="https://peterica.tistory.com/857"> [Docker] Error saving credentials: error storing credentials 해결방법 </a> <br>
 <a href ="https://peterica.tistory.com/856"> [GO] Golang에서 Viper 사용하기: 설정 관리 도구 </a> <br>
 <a href ="https://peterica.tistory.com/855"> [FFmpeg] FFprobe 사용법: 멀티미디어 파일 분석하기 </a> <br>
-<a href ="https://peterica.tistory.com/818"> [Docker] 도커파일의 EXPOSE와 &quot;docker run -p&quot; 명령의 차이점 </a> <br>
