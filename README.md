@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/879"> [GO] Go 언어에서 sync.Map 사용하기 </a> <br>
 <a href ="https://peterica.tistory.com/878"> [GO] Golang에서 Linux 명령어 실행 및 관리하기 </a> <br>
 <a href ="https://peterica.tistory.com/877"> [GO] Go Race Detector: 동시성 버그를 잡아내는 강력한 도구 </a> <br>
 <a href ="https://peterica.tistory.com/876"> [GO] Go 언어에서의 &quot;fatal error: concurrent map read and map write&quot; 해결하기 </a> <br>
 <a href ="https://peterica.tistory.com/875"> [Spring] MultipartFile.transferTo(): 파일 업로드의 효율적 방법 </a> <br>
 <a href ="https://peterica.tistory.com/874"> [Docker] Docker System Prune: 도커 시스템 정리 도구, 용량 부족 해결 </a> <br>
-<a href ="https://peterica.tistory.com/873"> [GO] Go 애플리케이션 메모리 사용량 증가 문제 해결 방법 </a> <br>
