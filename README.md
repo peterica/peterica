@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/881"> [GO] Go에서 함수와 메서드, 그리고 포인터 메서드와 값 타입 메서드 차이 </a> <br>
 <a href ="https://peterica.tistory.com/880"> [GO] Go의 fsnotify 라이브러리를 활용한 파일 시스템 감시 </a> <br>
 <a href ="https://peterica.tistory.com/879"> [GO] Go 언어에서 sync.Map 사용하기 </a> <br>
 <a href ="https://peterica.tistory.com/878"> [GO] Golang에서 Linux 명령어 실행 및 관리하기 </a> <br>
 <a href ="https://peterica.tistory.com/877"> [GO] Go Race Detector: 동시성 버그를 잡아내는 강력한 도구 </a> <br>
 <a href ="https://peterica.tistory.com/876"> [GO] Go 언어에서의 &quot;fatal error: concurrent map read and map write&quot; 해결하기 </a> <br>
-<a href ="https://peterica.tistory.com/875"> [Spring] MultipartFile.transferTo(): 파일 업로드의 효율적 방법 </a> <br>
