@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/888"> [Docker] Docker ENTRYPOINT와 CMD의 차이점 </a> <br>
 <a href ="https://peterica.tistory.com/887"> [Docker] 컨테이너를 새로운 태그로 지정하여 Docker Hub에 푸시하는 과정 </a> <br>
 <a href ="https://peterica.tistory.com/886"> [Docker] Docker 컨테이너에서 JAR 파일만 수정하고 다시 실행하는 방법 </a> <br>
 <a href ="https://peterica.tistory.com/885"> RTO와 RPO: 재해 복구 계획의 핵심 지표 </a> <br>
 <a href ="https://peterica.tistory.com/884"> [Docker] Docker Compose 볼륨을 읽기 전용(read-only)으로 설정하기 </a> <br>
 <a href ="https://peterica.tistory.com/883"> [Postman] Postman 오프라인 사용방법 </a> <br>
-<a href ="https://peterica.tistory.com/882"> [Postman] Postman의 Workspace: API 개발자의 디지털 작업실 </a> <br>
