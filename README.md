@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/894"> [Nginx] NGINX 기설 설정 파일의 구조와 사용법 </a> <br>
+<a href ="https://peterica.tistory.com/895"> [Nginx] NGINX에서 정적 파일 캐시 설정하는 방법 </a> <br>
+<a href ="https://peterica.tistory.com/894"> [Nginx] NGINX 설정 파일의 구조와 사용법 </a> <br>
 <a href ="https://peterica.tistory.com/893"> [Docker] Docker 데몬 로그 확인 방법, docker 먹통 시 해결 방법 </a> <br>
 <a href ="https://peterica.tistory.com/892"> [GO] Tucker의 GO 언어 프로그래밍 - 2장 변수 </a> <br>
 <a href ="https://peterica.tistory.com/891"> [GO] Tucker의 GO 언어 프로그래밍 - 1장 역사와 특징 </a> <br>
 <a href ="https://peterica.tistory.com/889"> [Nginx] NGINX의 End of Life (EOL) 정책 정리 </a> <br>
-<a href ="https://peterica.tistory.com/888"> [Docker] Docker ENTRYPOINT와 CMD의 차이점 </a> <br>
