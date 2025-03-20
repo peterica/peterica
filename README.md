@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/903"> [Nginx] Nginx 가상 호스팅 설정 </a> <br>
+<a href ="https://peterica.tistory.com/907"> [카라반] 바인스버그 390QD, 타이어 수리(진행 중) </a> <br>
+<a href ="https://peterica.tistory.com/906"> 마진 파워미터 P505: 혁신적인 자전거 파워미터 장착기 </a> <br>
 <a href ="https://peterica.tistory.com/902"> [Nginx] Nginx 설정을 외부 파일로 관리하는 효율적인 방법 </a> <br>
 <a href ="https://peterica.tistory.com/901"> [Nginx] Nginx의 기본 이해와 주요 기능 </a> <br>
 <a href ="https://peterica.tistory.com/896"> [Linux] curl을 사용하여 HTTP 헤더를 확인 방법 </a> <br>
-<a href ="https://peterica.tistory.com/898"> [Nginx] NGINX으로 HLS(HTTP Live Streaming)  스트리밍 캐싱설정 </a> <br>
-<a href ="https://peterica.tistory.com/897"> [Spring] Spring Boot 설정 로드 우선순위 </a> <br>
-<a href ="https://peterica.tistory.com/899"> [Jenkins] Jenkins Pipeline으로 쉘 스크립트를 주기적으로 실행하기 </a> <br>
