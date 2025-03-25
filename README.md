@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/909"> [GO] Tucker의 GO 언어 프로그래밍 - 22장 고루틴과 동시성 프로그래밍 </a> <br>
 <a href ="https://peterica.tistory.com/908"> [GO] Tucker의 GO 언어 프로그래밍 - 목차 </a> <br>
 <a href ="https://peterica.tistory.com/905"> [GO] Tucker의 GO 언어 프로그래밍 - 4장 연산자 </a> <br>
 <a href ="https://peterica.tistory.com/904"> [Nginx] NGINX 보안 강화를 위한 기본 설정 </a> <br>
 <a href ="https://peterica.tistory.com/900"> [GO] Tucker의 GO 언어 프로그래밍 - 3장 fmt </a> <br>
 <a href ="https://peterica.tistory.com/903"> [Nginx] Nginx 가상 호스팅 설정 </a> <br>
-<a href ="https://peterica.tistory.com/907"> [카라반] 바인스버그 390QD, 타이어 수리(진행 중) </a> <br>
