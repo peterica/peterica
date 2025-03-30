@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/913"> MCHOSE GX87 기계식 키보드 사용법 </a> <br>
 <a href ="https://peterica.tistory.com/912"> [GO] 인터페이스와 제네릭의 차이점은? </a> <br>
 <a href ="https://peterica.tistory.com/911"> [GO] Tucker의 GO 언어 프로그래밍 - 24장 제네릭 프로그래밍 </a> <br>
 <a href ="https://peterica.tistory.com/910"> [GO] Tucker의 GO 언어 프로그래밍 - 23장 채널과 컨텍스트 </a> <br>
 <a href ="https://peterica.tistory.com/909"> [GO] Tucker의 GO 언어 프로그래밍 - 22장 고루틴과 동시성 프로그래밍 </a> <br>
 <a href ="https://peterica.tistory.com/908"> [GO] Tucker의 GO 언어 프로그래밍 - 목차 </a> <br>
-<a href ="https://peterica.tistory.com/905"> [GO] Tucker의 GO 언어 프로그래밍 - 4장 연산자 </a> <br>
