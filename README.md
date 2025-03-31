@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/913"> MCHOSE GX87 기계식 키보드 사용법 </a> <br>
-<a href ="https://peterica.tistory.com/912"> [GO] 인터페이스와 제네릭의 차이점은? </a> <br>
-<a href ="https://peterica.tistory.com/911"> [GO] Tucker의 GO 언어 프로그래밍 - 24장 제네릭 프로그래밍 </a> <br>
-<a href ="https://peterica.tistory.com/910"> [GO] Tucker의 GO 언어 프로그래밍 - 23장 채널과 컨텍스트 </a> <br>
-<a href ="https://peterica.tistory.com/909"> [GO] Tucker의 GO 언어 프로그래밍 - 22장 고루틴과 동시성 프로그래밍 </a> <br>
 <a href ="https://peterica.tistory.com/908"> [GO] Tucker의 GO 언어 프로그래밍 - 목차 </a> <br>
+<a href ="https://peterica.tistory.com/916"> CXL 메모리 vs 애플 실리콘 메모리 정책: 공통점과 차이점 </a> <br>
+<a href ="https://peterica.tistory.com/917"> NVMe 스토리지와 AWS EBS 볼륨 타입: 성능과 지연률 최적화 전략 </a> <br>
+<a href ="https://peterica.tistory.com/915"> CXL 메모리: 차세대 컴퓨팅 환경을 위한 혁신 기술 </a> <br>
+<a href ="https://peterica.tistory.com/914"> [GO] Tucker의 GO 언어 프로그래밍 - 18장 인터페이스 </a> <br>
+<a href ="https://peterica.tistory.com/913"> MCHOSE GX87 기계식 키보드 사용법 </a> <br>
