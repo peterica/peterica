@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/919"> ChatGPT 지브리 이미지 만들기 </a> <br>
 <a href ="https://peterica.tistory.com/907"> [카라반] 바인스버그 390QD, 타이어 수리 </a> <br>
 <a href ="https://peterica.tistory.com/908"> [GO] Tucker의 GO 언어 프로그래밍 - 목차 </a> <br>
 <a href ="https://peterica.tistory.com/916"> CXL 메모리 vs 애플 실리콘 메모리 정책: 공통점과 차이점 </a> <br>
 <a href ="https://peterica.tistory.com/917"> NVMe 스토리지와 AWS EBS 볼륨 타입: 성능과 지연률 최적화 전략 </a> <br>
 <a href ="https://peterica.tistory.com/915"> CXL 메모리: 차세대 컴퓨팅 환경을 위한 혁신 기술 </a> <br>
-<a href ="https://peterica.tistory.com/914"> [GO] Tucker의 GO 언어 프로그래밍 - 18장 인터페이스 </a> <br>
