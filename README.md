@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/925"> [Nginx] NGINX에서 404 오류 발생 시 기본 파일 전달하기 </a> <br>
 <a href ="https://peterica.tistory.com/924"> [Nginx] NGINX Rate Limiting &amp; 동적 IP 차단 가이드 </a> <br>
 <a href ="https://peterica.tistory.com/923"> [GO] Too many open files 에러 트러블슈팅 </a> <br>
 <a href ="https://peterica.tistory.com/815"> [Node.js] 타임아웃 핸들링 방법 </a> <br>
 <a href ="https://peterica.tistory.com/922"> 농촌 폐가(빈집)에 대한 강제이행금 제도 </a> <br>
 <a href ="https://peterica.tistory.com/921"> 5년 단임제와 4년 중임제 비교 </a> <br>
-<a href ="https://peterica.tistory.com/919"> ChatGPT 지브리 이미지 만들기 </a> <br>
