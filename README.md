@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/932"> [FFmpeg] ffmpeg의 DNS 캐싱 문제 </a> <br>
 <a href ="https://peterica.tistory.com/931"> Kubernetes의 DNS 규칙 </a> <br>
 <a href ="https://peterica.tistory.com/930"> [ 라이딩 스토리] 신안 증도 라이딩 </a> <br>
 <a href ="https://peterica.tistory.com/928"> [GO] Go CRUD 프로젝트 아키텍처 </a> <br>
 <a href ="https://peterica.tistory.com/558"> 맥에서 파일 공유 활성방법 </a> <br>
 <a href ="https://peterica.tistory.com/925"> [Nginx] NGINX에서 404 오류 발생 시 기본 파일 전달하기 </a> <br>
-<a href ="https://peterica.tistory.com/924"> [Nginx] NGINX Rate Limiting &amp; 동적 IP 차단 가이드 </a> <br>
