@@ -23,4 +23,4 @@
 <a href ="https://peterica.tistory.com/932"> [FFmpeg] ffmpeg의 DNS 캐싱 문제 </a> <br>
 <a href ="https://peterica.tistory.com/931"> Kubernetes의 DNS 규칙 </a> <br>
 <a href ="https://peterica.tistory.com/930"> [ 라이딩 스토리] 신안 증도 라이딩 </a> <br>
-<a href ="https://peterica.tistory.com/928"> [GO] Go CRUD 프로젝트 아키텍처 </a> <br>
+<a href ="https://peterica.tistory.com/929"> [AI] VESSL AI란? </a> <br>
