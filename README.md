@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/938"> [SRE] 실전에서 배우는 SLI: CloudWatch와 Grafana로 신뢰성 확보하기 </a> <br>
+<a href ="https://peterica.tistory.com/937"> [SRE] SRE가 지켜야 할 SLA, SLO, SLI란? </a> <br>
 <a href ="https://peterica.tistory.com/936"> 블로그 작성용 이모티콘 모음 </a> <br>
 <a href ="https://peterica.tistory.com/935"> SRE란 무엇인가? SRE는 단순한 &lsquo;운영&rsquo;이 아니다 </a> <br>
 <a href ="https://peterica.tistory.com/932"> [FFmpeg] ffmpeg의 DNS 캐싱 문제 </a> <br>
 <a href ="https://peterica.tistory.com/931"> Kubernetes의 DNS 규칙 </a> <br>
-<a href ="https://peterica.tistory.com/930"> [ 라이딩 스토리] 신안 증도 라이딩 </a> <br>
-<a href ="https://peterica.tistory.com/929"> [AI] VESSL AI란? </a> <br>
