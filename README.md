@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/948"> 고충처리위원, 조직을 변화시키는 조용한 리더 </a> <br>
 <a href ="https://peterica.tistory.com/946"> [SRE] SRE 모니터링 방법론: USE Method, RED Method, Four Golden Signals 정리 </a> <br>
 <a href ="https://peterica.tistory.com/945"> [SRE] SRE 참고서로서 『The Art of Capacity Planning』 </a> <br>
 <a href ="https://peterica.tistory.com/944"> [SRE] SRE는 단순한 운영을 넘는 엔지니어링 문화이다. </a> <br>
 <a href ="https://peterica.tistory.com/942"> [MySQL] MySQL의 샤딩이란 </a> <br>
 <a href ="https://peterica.tistory.com/940"> AI Service Agent란? </a> <br>
-<a href ="https://peterica.tistory.com/938"> [SRE] 실전에서 배우는 SLI: CloudWatch와 Grafana로 신뢰성 확보하기 </a> <br>
