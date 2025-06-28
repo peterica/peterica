@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/953"> [Node.js] localStorage와 sessionStorage의 차이점 정리 </a> <br>
 <a href ="https://peterica.tistory.com/952"> [바이브코딩] ChatGPT를 기획자로 만들기 위한 명령프롬프트 작성법 </a> <br>
 <a href ="https://peterica.tistory.com/951"> [AI] 문서 기반 개발과 Cursor를 활용한 실전 개발 방법 </a> <br>
 <a href ="https://peterica.tistory.com/949"> 문서 기반 개발(Documentation-Driven Development, DDD)란? </a> <br>
 <a href ="https://peterica.tistory.com/948"> 고충처리위원, 조직을 변화시키는 조용한 리더 </a> <br>
 <a href ="https://peterica.tistory.com/946"> [SRE] SRE 모니터링 방법론: USE Method, RED Method, Four Golden Signals 정리 </a> <br>
-<a href ="https://peterica.tistory.com/945"> [SRE] SRE 참고서로서 『The Art of Capacity Planning』 </a> <br>
