@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/962"> The AI-Native Software Engineer 요약 </a> <br>
+<a href ="https://peterica.tistory.com/961"> 디케이테크인 공시 분석 </a> <br>
 <a href ="https://peterica.tistory.com/960"> [AI] 환경을 설계하는 시대: 프롬프트에서 컨텍스트 엔지니어링으로 </a> <br>
 <a href ="https://peterica.tistory.com/959"> [AI] Cursor v1.2 업데이트 &ndash; 더욱 강력해진 기능 소개 </a> <br>
 <a href ="https://peterica.tistory.com/957"> [AI] MSA 서비스를 분석하는 가장 확실한 방법&ndash; 문서 중심 지식기반 개발 전략 </a> <br>
 <a href ="https://peterica.tistory.com/958"> Premiere Pro 동영상 템플릿 만드는 방법 </a> <br>
-<a href ="https://peterica.tistory.com/955"> [Cursor] Cursor 단축키 정리 </a> <br>
-<a href ="https://peterica.tistory.com/954"> [kubernetes] Kubernetes Ingress에서 SSL 리디렉션을 비활성화하는 방법 </a> <br>
