@@ -18,8 +18,8 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/963"> 대치동을 떠나는 부모들, 휘문고 미달 사태의 속사정 </a> <br>
 <a href ="https://peterica.tistory.com/962"> The AI-Native Software Engineer 요약 </a> <br>
-<a href ="https://peterica.tistory.com/961"> 디케이테크인 공시 분석 </a> <br>
 <a href ="https://peterica.tistory.com/960"> [AI] 환경을 설계하는 시대: 프롬프트에서 컨텍스트 엔지니어링으로 </a> <br>
 <a href ="https://peterica.tistory.com/959"> [AI] Cursor v1.2 업데이트 &ndash; 더욱 강력해진 기능 소개 </a> <br>
 <a href ="https://peterica.tistory.com/957"> [AI] MSA 서비스를 분석하는 가장 확실한 방법&ndash; 문서 중심 지식기반 개발 전략 </a> <br>
