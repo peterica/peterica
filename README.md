@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/967"> 올리브유 다이어트 효과와 제대로 먹는 법 </a> <br>
+<a href ="https://peterica.tistory.com/966"> 40대 이후 체지방 감량과 건강한 다이어트의 핵심 </a> <br>
+<a href ="https://peterica.tistory.com/965"> [AI] AI 학습과 추론, HBM과 GDDR의 차이점 </a> <br>
 <a href ="https://peterica.tistory.com/964"> [AI] Gemini CLI와 Cursor로 스마트하게 개발하기: 토큰 절약과 효율 극대화 전략 </a> <br>
 <a href ="https://peterica.tistory.com/963"> 대치동을 떠나는 부모들, 휘문고 미달 사태의 속사정 </a> <br>
 <a href ="https://peterica.tistory.com/962"> The AI-Native Software Engineer 요약 </a> <br>
-<a href ="https://peterica.tistory.com/960"> [AI] 환경을 설계하는 시대: 프롬프트에서 컨텍스트 엔지니어링으로 </a> <br>
-<a href ="https://peterica.tistory.com/959"> [AI] Cursor v1.2 업데이트 &ndash; 더욱 강력해진 기능 소개 </a> <br>
-<a href ="https://peterica.tistory.com/957"> [AI] MSA 서비스를 분석하는 가장 확실한 방법&ndash; 문서 중심 지식기반 개발 전략 </a> <br>
