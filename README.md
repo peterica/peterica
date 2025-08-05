@@ -19,8 +19,8 @@
 ### 📕 Latest Blog Posts   
 
 <a href ="https://peterica.tistory.com/761"> [AI] Peterica의 AI공부와 비젼 정리 </a> <br>
+<a href ="https://peterica.tistory.com/973"> [AI] 멀티모달(Multi-modal)과 MoE(Mixture of Experts) </a> <br>
+<a href ="https://peterica.tistory.com/972"> [AI] 카카오 국가대표AI 탈락 이유 분석 </a> <br>
 <a href ="https://peterica.tistory.com/971"> [AI] AI코딩 관련 동영상 모음 </a> <br>
 <a href ="https://peterica.tistory.com/970"> 새로운 탈모 치료제, 설탕의 재발견? 연구실 알바생에게 맡겨보니 </a> <br>
 <a href ="https://peterica.tistory.com/968"> [AI] 문서 기반 개발 프로세스: AI를 &lsquo;알바생&rsquo;으로 활용하는 실전 노트 </a> <br>
-<a href ="https://peterica.tistory.com/969"> OpenAI 전직 직원의 &lsquo;Reflections on OpenAI&rsquo;를 읽고 &ndash; 독후감 </a> <br>
-<a href ="https://peterica.tistory.com/967"> 올리브유 다이어트 효과와 제대로 먹는 법 </a> <br>
