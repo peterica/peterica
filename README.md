@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/918"> [GO] Go 언어로 CLI 프로그램 개발하기: Cobra 라이브러리 활용 </a> <br>
+<a href ="https://peterica.tistory.com/926"> 웹 서버 부하 테스트 도구, siege 사용법 정리 </a> <br>
+<a href ="https://peterica.tistory.com/943"> [MySQL] Elasticsearch vs MySQL: 샤딩 구조와 Read-Only Replica 실무 활용법 </a> <br>
 <a href ="https://peterica.tistory.com/761"> [AI] Peterica의 AI공부와 비젼 정리 </a> <br>
 <a href ="https://peterica.tistory.com/977"> [AI] 메타 프롬프트 사용 방법 </a> <br>
 <a href ="https://peterica.tistory.com/976"> [AI] 토큰 부족, AI 최소 의존 모드 </a> <br>
-<a href ="https://peterica.tistory.com/975"> [AI] Cursor 토큰 소비 구조와 절약 전략 (실사용 경험 기반) </a> <br>
-<a href ="https://peterica.tistory.com/971"> [AI] AI코딩 관련 동영상 모음 </a> <br>
-<a href ="https://peterica.tistory.com/974"> 하이브리드 인증서란? RSA와 ECC를 모두 아우르는 인증서 </a> <br>
