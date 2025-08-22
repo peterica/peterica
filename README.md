@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/979"> KAIST 탈모샴푸, 실질 효과 정말 있을까? </a> <br>
 <a href ="https://peterica.tistory.com/562"> [AI] Gemini CLI 2.0과 Cursor로 실시간 바이브 코딩하기 </a> <br>
 <a href ="https://peterica.tistory.com/561"> [AI] 토큰 사용량을 줄이는 방법, Serena MCP </a> <br>
 <a href ="https://peterica.tistory.com/978"> [AI] AI 시대 서버 관리자의 미래는? 플랫폼 엔지니어 나아가자! </a> <br>
 <a href ="https://peterica.tistory.com/918"> [GO] Go 언어로 CLI 프로그램 개발하기: Cobra 라이브러리 활용 </a> <br>
 <a href ="https://peterica.tistory.com/926"> 웹 서버 부하 테스트 도구, siege 사용법 정리 </a> <br>
-<a href ="https://peterica.tistory.com/943"> [MySQL] Elasticsearch vs MySQL: 샤딩 구조와 Read-Only Replica 실무 활용법 </a> <br>
