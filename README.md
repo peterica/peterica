@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/575"> [Node.js] Node.js vs Java에서 값 참조와 객체 복사 차이 </a> <br>
 <a href ="https://peterica.tistory.com/955"> [Cursor] Cursor 단축키 정리 </a> <br>
 <a href ="https://peterica.tistory.com/980"> [AI] 복붙해서 쓰는 학습 세션 컨텍스트(교사 모드) </a> <br>
 <a href ="https://peterica.tistory.com/979"> KAIST 탈모샴푸, 실질 효과 정말 있을까? </a> <br>
 <a href ="https://peterica.tistory.com/562"> [AI] Gemini CLI 2.0과 Cursor로 실시간 바이브 코딩하기 </a> <br>
 <a href ="https://peterica.tistory.com/561"> [AI] 토큰 사용량을 줄이는 방법, Serena MCP </a> <br>
-<a href ="https://peterica.tistory.com/978"> [AI] AI 시대 서버 관리자의 미래는? 플랫폼 엔지니어 나아가자! </a> <br>
