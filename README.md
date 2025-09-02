@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/956"> [AI] 컨텍스트 엔지니어링: 프롬프트를 넘어서 AI의 성공을 설계하는 법 </a> <br>
+<a href ="https://peterica.tistory.com/563"> [AI] 백엔드 개발자가 본 바이브코딩 - 일할맛 in 판교 세미나 리뷰 </a> <br>
 <a href ="https://peterica.tistory.com/575"> [Node.js] Node.js vs Java에서 값 참조와 객체 복사 차이 </a> <br>
 <a href ="https://peterica.tistory.com/955"> [Cursor] Cursor 단축키 정리 </a> <br>
 <a href ="https://peterica.tistory.com/980"> [AI] 복붙해서 쓰는 학습 세션 컨텍스트(교사 모드) </a> <br>
 <a href ="https://peterica.tistory.com/979"> KAIST 탈모샴푸, 실질 효과 정말 있을까? </a> <br>
-<a href ="https://peterica.tistory.com/562"> [AI] Gemini CLI 2.0과 Cursor로 실시간 바이브 코딩하기 </a> <br>
-<a href ="https://peterica.tistory.com/561"> [AI] 토큰 사용량을 줄이는 방법, Serena MCP </a> <br>
