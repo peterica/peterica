@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/608"> [Kibana] Kibana Saved Objects 관리와 백업 </a> <br>
 <a href ="https://peterica.tistory.com/782"> [AI] Cursor에서 토큰 사용량이 많은가? cache read  줄이는 법 </a> <br>
 <a href ="https://peterica.tistory.com/927"> [AI] 바이브 코딩과 컨텍스트 엔지니어링 프롬프트 작성(Hackathon Vibe Coding Prompt) </a> <br>
 <a href ="https://peterica.tistory.com/956"> [AI] 컨텍스트 엔지니어링: 프롬프트를 넘어서 AI의 성공을 설계하는 법 </a> <br>
 <a href ="https://peterica.tistory.com/563"> [AI] 백엔드 개발자가 본 바이브코딩 - 일할맛 in 판교 세미나 리뷰 </a> <br>
 <a href ="https://peterica.tistory.com/575"> [Node.js] Node.js vs Java에서 값 참조와 객체 복사 차이 </a> <br>
-<a href ="https://peterica.tistory.com/955"> [Cursor] Cursor 단축키 정리 </a> <br>
