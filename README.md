@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/982"> [kubernetes] Ingress Host 매칭으로 하나의 네임스페이스에 여러 Kibana 운영하기 </a> <br>
 <a href ="https://peterica.tistory.com/761"> [AI] Peterica의 AI공부와 비젼 정리 </a> <br>
 <a href ="https://peterica.tistory.com/607"> [AI CE] Task 관리와 도구 역할 분리 </a> <br>
 <a href ="https://peterica.tistory.com/981"> [Fluentd] multiline parser, 로그병합과 필터링 </a> <br>
 <a href ="https://peterica.tistory.com/608"> [Kibana] Kibana Saved Objects 관리와 백업 </a> <br>
 <a href ="https://peterica.tistory.com/782"> [AI] Cursor에서 토큰 사용량이 많은가? cache read  줄이는 법 </a> <br>
-<a href ="https://peterica.tistory.com/927"> [AI][Prompt] 바이브 코딩(Hackathon Vibe Coding Prompt)으로 1시간 앱만들기 </a> <br>
