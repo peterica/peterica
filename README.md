@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/988"> [AI] 한시간 안에 V0를 이용한 웹페이지 만들기(feat. 헤커톤) </a> <br>
 <a href ="https://peterica.tistory.com/987"> [AI] 헤커톤 준비 연습장 </a> <br>
 <a href ="https://peterica.tistory.com/986"> IntelliJ Continue 1.0.44 버전 문제와 1.0.30 구버전 플러그인 직접 설치 </a> <br>
 <a href ="https://peterica.tistory.com/985"> [IT 하자] 질문이 이끄는 공부: 스스로 계획하고 실천하는 스터디 방식 </a> <br>
 <a href ="https://peterica.tistory.com/984"> [Elasticsearch] KQL과 Lucene, 무엇이 다를까? Kibana 쿼리 언어 비교 가이드 </a> <br>
 <a href ="https://peterica.tistory.com/761"> [AI] Peterica의 AI공부와 비젼 정리 </a> <br>
-<a href ="https://peterica.tistory.com/983"> [AI] Cursor에서 토큰 사용량을 획기적으로 줄이는 실전 방법 </a> <br>
