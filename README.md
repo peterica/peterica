@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/994"> 백엔드 개발자가 정리한 PIM vs PNM: 메모리 근처에서 연산한다는 것의 진짜 의미 </a> <br>
+<a href ="https://peterica.tistory.com/993"> 왜 우리는 가난해지는가: 인플레이션과 화폐 사기의 진짜 얼굴 </a> <br>
 <a href ="https://peterica.tistory.com/992"> [AI] IntentFlow - 기술 요소 목록 </a> <br>
 <a href ="https://peterica.tistory.com/991"> [Kubernetes] Ingress NGINX 퇴출: Kubernetes 네트워크 관리 변화의 시사점 </a> <br>
 <a href ="https://peterica.tistory.com/990"> [AI] IntentFlow 프로젝트 회고 및 소개 </a> <br>
 <a href ="https://peterica.tistory.com/989"> [AI] IntentFlow 개발 완료 회고 </a> <br>
-<a href ="https://peterica.tistory.com/988"> [AI] 한시간 안에 V0를 이용한 웹페이지 만들기(feat. 헤커톤) </a> <br>
-<a href ="https://peterica.tistory.com/987"> [AI] 헤커톤 준비 연습장 </a> <br>
