@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/1001"> [AI] LLM 양자화 완전 정리: GPTQ / AWQ / GGUF / BNB 차이 + 비트 수와 메모리 관계 </a> <br>
+<a href ="https://peterica.tistory.com/1000"> [AI] LLM 양자화와 벡터 양자화(VQ)의 차이 </a> <br>
 <a href ="https://peterica.tistory.com/999"> [AI] Transformer: Attention Is All You Need 논문 요약 </a> <br>
 <a href ="https://peterica.tistory.com/998"> [AI] Transformer, BERT, GPT 한 번에 정리하기 </a> <br>
 <a href ="https://peterica.tistory.com/997"> [AI] RAG&middot;Agent&middot;Infra&middot;Compliance를 동시에 다루는 엔지니어의 지식 정리법 </a> <br>
 <a href ="https://peterica.tistory.com/994"> 백엔드 개발자가 정리한 PIM vs PNM: 메모리 근처에서 연산한다는 것의 진짜 의미 </a> <br>
-<a href ="https://peterica.tistory.com/993"> 왜 우리는 가난해지는가: 인플레이션과 화폐 사기의 진짜 얼굴 </a> <br>
-<a href ="https://peterica.tistory.com/992"> [AI] IntentFlow - 기술 요소 목록 </a> <br>
