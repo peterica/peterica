@@ -18,7 +18,7 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/1008"> PostgreSQL의 캐싱이란 </a> <br>
+<a href ="https://peterica.tistory.com/1008"> PostgreSQL의 캐싱이란, cached plan must not change result type 에러분석 </a> <br>
 <a href ="https://peterica.tistory.com/1007"> [경제] 고환율&middot;고물가 국면에 대한 나의 정리 </a> <br>
 <a href ="https://peterica.tistory.com/1006"> 트래픽 성장과 함께 진화한 Redis &middot; RabbitMQ &middot; Kafka 이야기 </a> <br>
 <a href ="https://peterica.tistory.com/1005"> [AI] QAT(Quantization-Aware Training) &mdash; 양자화를 가장 똑똑하게 하는 방법 </a> <br>
