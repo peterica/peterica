@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/1012"> [AI] Obsidian Skills, 로컬 지식베이스와 AI의 연결 </a> <br>
+<a href ="https://peterica.tistory.com/1011"> [AI] LLM 학습을 위한 큐레이션 허브(LLM Engineer Toolkit) </a> <br>
 <a href ="https://peterica.tistory.com/1010"> [독후감] 부의 대이동(읽는 중) </a> <br>
 <a href ="https://peterica.tistory.com/1009"> [독후감] 세이노의 가르침 </a> <br>
 <a href ="https://peterica.tistory.com/1008"> PostgreSQL의 캐싱이란, cached plan must not change result type 에러분석 </a> <br>
 <a href ="https://peterica.tistory.com/1007"> [경제] 고환율&middot;고물가 국면에 대한 나의 정리 </a> <br>
-<a href ="https://peterica.tistory.com/1006"> 트래픽 성장과 함께 진화한 Redis &middot; RabbitMQ &middot; Kafka 이야기 </a> <br>
-<a href ="https://peterica.tistory.com/1005"> [AI] QAT(Quantization-Aware Training) &mdash; 양자화를 가장 똑똑하게 하는 방법 </a> <br>
