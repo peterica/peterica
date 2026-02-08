@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/1029"> [AI] Vector Similarity &mdash; RAG에서 &ldquo;가장 중요한 수학&rdquo; </a> <br>
 <a href ="https://peterica.tistory.com/1027"> [AI] Chunking Strategy - 청크 전략과 크기 최적화, RAG 품질의 출발점 </a> <br>
 <a href ="https://peterica.tistory.com/1026"> [AI] Chunking Strategy &mdash; RAG 품질을 결정하는 보이지 않는 설계 </a> <br>
 <a href ="https://peterica.tistory.com/1028"> [AI] 온톨로지에서 Agentic GraphRAG까지 - &ldquo;관계 기반 AI&rdquo;가 필요한 이유 </a> <br>
 <a href ="https://peterica.tistory.com/1025"> [AI] Embedding 기초 &mdash; Transformer가 만든 의미를 저장하는 방법 </a> <br>
 <a href ="https://peterica.tistory.com/1024"> [AI] KV Cache &mdash; LLM은 어떻게 &lsquo;생각의 흐름&rsquo;을 기억하는가 </a> <br>
-<a href ="https://peterica.tistory.com/1023"> [AI] Transformer Encoder-Decoder 구조 - Attention 다음 단계, 메커니즘에서 시스템으로 </a> <br>
