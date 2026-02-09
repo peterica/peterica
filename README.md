@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/1029"> [AI] Vector Similarity &mdash; RAG에서 &ldquo;가장 중요한 수학&rdquo; </a> <br>
-<a href ="https://peterica.tistory.com/1027"> [AI] Chunking Strategy - 청크 전략과 크기 최적화, RAG 품질의 출발점 </a> <br>
-<a href ="https://peterica.tistory.com/1026"> [AI] Chunking Strategy &mdash; RAG 품질을 결정하는 보이지 않는 설계 </a> <br>
-<a href ="https://peterica.tistory.com/1028"> [AI] 온톨로지에서 Agentic GraphRAG까지 - &ldquo;관계 기반 AI&rdquo;가 필요한 이유 </a> <br>
-<a href ="https://peterica.tistory.com/1025"> [AI] Embedding 기초 &mdash; Transformer가 만든 의미를 저장하는 방법 </a> <br>
-<a href ="https://peterica.tistory.com/1024"> [AI] KV Cache &mdash; LLM은 어떻게 &lsquo;생각의 흐름&rsquo;을 기억하는가 </a> <br>
+<a href ="https://peterica.tistory.com/1017"> [AI] LLM 학습 노트 공개 - Transformer부터 RAG까지, 그리고 운영 가능한 AI 시스템을 향해 </a> <br>
+<a href ="https://peterica.tistory.com/1034"> [AI W3] RAG 기초 - Retriever(벡터, 키워드, Hybrid) </a> <br>
+<a href ="https://peterica.tistory.com/1033"> [AI] RAG 파이프라인 전체 구조 </a> <br>
+<a href ="https://peterica.tistory.com/1032"> [AI] RAG용 VectorDB 튜닝 </a> <br>
+<a href ="https://peterica.tistory.com/1026"> [AI] Embedding부터 VectorDB까지, Week2 학습 내용 정리 </a> <br>
+<a href ="https://peterica.tistory.com/1031"> [AI] Weaviate Usage - VectorDB를 &ldquo;검색 엔진&rdquo;이 아니라 &ldquo;의미 저장소&rdquo;로 쓰는 법 </a> <br>
