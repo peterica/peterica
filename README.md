@@ -18,7 +18,7 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/1037"> [AI] HBM은 왜 LLM 시대의 핵심이 되었는가 </a> <br>
+<a href ="https://peterica.tistory.com/1037"> [AI] HBM은 왜 LLM 시대의 핵심이 되었는가? </a> <br>
 <a href ="https://peterica.tistory.com/1010"> [독후감] 부의 대이동 </a> <br>
 <a href ="https://peterica.tistory.com/1017"> [AI] LLM 학습 노트 공개 - Transformer부터 RAG까지, 그리고 운영 가능한 AI 시스템을 향해 </a> <br>
 <a href ="https://peterica.tistory.com/1036"> [AI W3] Reader(LLM) 프롬프트 설계와 Hallucination을 다루는 방법 </a> <br>
