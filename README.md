@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/1044"> [AI] 나는 아직도 배우는 중이다 </a> <br>
+<a href ="https://peterica.tistory.com/1043"> [AI] 개발자가 직접 만드는 Agent Harness - Ralph Loop와 Agentic Workflow Harness의 차이 </a> <br>
 <a href ="https://peterica.tistory.com/1042"> [독후감] 환율의 대전환, 오건영(읽는 중) </a> <br>
 <a href ="https://peterica.tistory.com/1038"> [독후감] 처음 만나는 마음챙김 명상 </a> <br>
 <a href ="https://peterica.tistory.com/1041"> [AI] Agentic Workflow와 harness 개념 중심 </a> <br>
 <a href ="https://peterica.tistory.com/1040"> Agentic Workflow &mdash; 이제 우리는 코드를 만드는 것이 아니라 시스템을 만든다 </a> <br>
-<a href ="https://peterica.tistory.com/1039"> 선거를 보면 정치가 아니라 유동성이 보인다 - 금리&middot;달러&middot;자산시장으로 해석하는 금융 사이클 </a> <br>
-<a href ="https://peterica.tistory.com/1037"> [AI] HBM은 왜 LLM 시대의 핵심이 되었는가? </a> <br>
