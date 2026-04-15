@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/1063"> Claude Code에 FDE 메인 디스패처 붙이기 - 스킬을 부르는 스킬 </a> <br>
+<a href ="https://peterica.tistory.com/1062"> Argo CD vs Jenkins &mdash; 왜 하나로 묶지 않고 역할을 분리하는가 </a> <br>
 <a href ="https://peterica.tistory.com/1061"> 샘플 프롬프트 모음 &mdash; Claude Code 하네스 설계 실전 예시 </a> <br>
 <a href ="https://peterica.tistory.com/1060"> Claude Code를 소프트웨어처럼 설계하기 - 프롬프트 하네스 아키텍처 </a> <br>
 <a href ="https://peterica.tistory.com/1059"> [AI] 1000개 블로그 글을 LLM Wiki로 만든 이야기 &mdash; Karpathy의 아이디어를 실전에 적용하다 </a> <br>
 <a href ="https://peterica.tistory.com/1056"> SSH에서 쿠버네티스로 &mdash; 하네스 엔지니어링이란 무엇인가 </a> <br>
-<a href ="https://peterica.tistory.com/1058"> [AI] Autoresearch 기반 지식 진화 시스템 정리 </a> <br>
-<a href ="https://peterica.tistory.com/1054"> AI를 잘 운영하는 개발자로 성장하기 </a> <br>
