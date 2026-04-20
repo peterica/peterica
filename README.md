@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/1066"> 맥미니 RAG를 넘어서 &mdash; 모바일 온디바이스 AI를 시작하다 </a> <br>
+<a href ="https://peterica.tistory.com/1069"> [AI] 448MB가 113MB 되는 길 &mdash; ONNX INT8 양자화 실전 </a> <br>
+<a href ="https://peterica.tistory.com/1068"> [AI] 엣지 RAG의 AI 도구 지도 &mdash; 왜 Python이 접합점인가 </a> <br>
+<a href ="https://peterica.tistory.com/1067"> [AI] 3트랙 병렬 리서치 - 쓰기 전에 물어봐야 하는 것들 </a> <br>
+<a href ="https://peterica.tistory.com/1066"> [AI]맥미니 RAG를 넘어서 &mdash; 모바일 온디바이스 AI를 시작하다 </a> <br>
 <a href ="https://peterica.tistory.com/1065"> [AI] sqlite-vec vs ANN: 왜 지금은 KNN이 더 적합한가 </a> <br>
 <a href ="https://peterica.tistory.com/1064"> [AI] 1,000개 블로그 글 Wiki에 로컬 RAG 챗봇 붙이기 &mdash; peterica-blog-chat </a> <br>
-<a href ="https://peterica.tistory.com/1063"> Claude Code에 FDE 메인 디스패처 붙이기 - 스킬을 부르는 스킬 </a> <br>
-<a href ="https://peterica.tistory.com/1062"> Argo CD vs Jenkins &mdash; 왜 하나로 묶지 않고 역할을 분리하는가 </a> <br>
-<a href ="https://peterica.tistory.com/1061"> 샘플 프롬프트 모음 &mdash; Claude Code 하네스 설계 실전 예시 </a> <br>
