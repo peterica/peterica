@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/1069"> [AI] 448MB가 113MB 되는 길 &mdash; ONNX INT8 양자화 실전 </a> <br>
-<a href ="https://peterica.tistory.com/1068"> [AI] 엣지 RAG의 AI 도구 지도 &mdash; 왜 Python이 접합점인가 </a> <br>
-<a href ="https://peterica.tistory.com/1067"> [AI] 3트랙 병렬 리서치 - 쓰기 전에 물어봐야 하는 것들 </a> <br>
-<a href ="https://peterica.tistory.com/1066"> [AI]맥미니 RAG를 넘어서 &mdash; 모바일 온디바이스 AI를 시작하다 </a> <br>
+<a href ="https://peterica.tistory.com/1071"> [온디바이스AI] 내 폰으로 나만의 RAG 만들기 - 온디바이스 RAG </a> <br>
+<a href ="https://peterica.tistory.com/1069"> [온디바이스AI] 양자화 - 448MB모델을 113MB로 만들기(ONNX INT8 양자화 실전) </a> <br>
+<a href ="https://peterica.tistory.com/1068"> [온디바이스AI] 엣지 RAG의 AI 도구 지도 - 왜 Python이 접합점인가 </a> <br>
+<a href ="https://peterica.tistory.com/1066"> [온디바이스AI] 맥미니 RAG를 넘어서 - 모바일 온디바이스 AI를 개발을 시작하며 </a> <br>
 <a href ="https://peterica.tistory.com/1065"> [AI] sqlite-vec vs ANN: 왜 지금은 KNN이 더 적합한가 </a> <br>
 <a href ="https://peterica.tistory.com/1064"> [AI] 1,000개 블로그 글 Wiki에 로컬 RAG 챗봇 붙이기 &mdash; peterica-blog-chat </a> <br>
