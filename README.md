@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/1074"> [온디바이스AI] 청크는 쌓는 게 아니라 덜어내는 일 &mdash; 약한 청크 25개를 덜어내 MRR이 0.15 올랐다 </a> <br>
+<a href ="https://peterica.tistory.com/1066"> [온디바이스AI] RTK &mdash; AI 에이전트 터미널 출력을 60~90% 압축하는 CLI 프록시 </a> <br>
+<a href ="https://peterica.tistory.com/1073"> [온디바이스AI] LiteRT-LM &mdash; 온디바이스 LLM을 실제로 &ldquo;돌리게&rdquo; 만드는 런타임 </a> <br>
 <a href ="https://peterica.tistory.com/1072"> [온디바이스AI] 처음 만드는 온디바이스 RAG &mdash; 핵심원칙 10가지 </a> <br>
 <a href ="https://peterica.tistory.com/1071"> [온디바이스AI] 내 폰으로 나만의 RAG 만들기(온디바이스 RAG 최소 아키텍처) </a> <br>
 <a href ="https://peterica.tistory.com/1065"> [AI] sqlite-vec vs ANN: 왜 지금은 KNN이 더 적합한가 </a> <br>
-<a href ="https://peterica.tistory.com/1064"> [AI] 1,000개 블로그 글 Wiki에 로컬 RAG 챗봇 붙이기 &mdash; peterica-blog-chat </a> <br>
-<a href ="https://peterica.tistory.com/1063"> Claude Code에 FDE 메인 디스패처 붙이기 - 스킬을 부르는 스킬 </a> <br>
-<a href ="https://peterica.tistory.com/1062"> Argo CD vs Jenkins &mdash; 왜 하나로 묶지 않고 역할을 분리하는가 </a> <br>
