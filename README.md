@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/1067"> [AI] GPU vs PIM vs NPU - 내 시스템의 병목은 연산인가, 메모리인가 </a> <br>
 <a href ="https://peterica.tistory.com/1075"> 어디서든 브라우저 VS Code로 마크다운만 떨어뜨리면 LLM 이 개인 위키로 자동 정리 - silva-omnium </a> <br>
 <a href ="https://peterica.tistory.com/1074"> [온디바이스AI] 청크는 쌓는 게 아니라 덜어내는 일 &mdash; 약한 청크 25개를 덜어내 MRR이 0.15 올랐다 </a> <br>
-<a href ="https://peterica.tistory.com/1066"> [온디바이스AI] RTK &mdash; AI 에이전트 터미널 출력을 60~90% 압축하는 CLI 프록시 </a> <br>
+<a href ="https://peterica.tistory.com/1066"> [AI] RTK &mdash; AI 에이전트 터미널 출력을 60~90% 압축하는 CLI 프록시 </a> <br>
 <a href ="https://peterica.tistory.com/1073"> [온디바이스AI] LiteRT-LM &mdash; 온디바이스 LLM을 실제로 &ldquo;돌리게&rdquo; 만드는 런타임 </a> <br>
 <a href ="https://peterica.tistory.com/1072"> [온디바이스AI] 처음 만드는 온디바이스 RAG &mdash; 핵심원칙 10가지 </a> <br>
-<a href ="https://peterica.tistory.com/1071"> [온디바이스AI] 내 폰으로 나만의 RAG 만들기(온디바이스 RAG 최소 아키텍처) </a> <br>
