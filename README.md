@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/1079"> [Network] 네트워크 이해를 위한 우체국 편지 비유(feat. network-fundamentals-lab) </a> <br>
+<a href ="https://peterica.tistory.com/1068"> RONCO 모션데스크 메모리형 리모컨 사용방법 </a> <br>
+<a href ="https://peterica.tistory.com/1069"> [생각] 공정은 법을 적용하는 것이 아니라 공동체를 살리는 것이다 - 아피케이아(Epieikeia) </a> <br>
 <a href ="https://peterica.tistory.com/1070"> [Gradle] compileOnly는 &quot;배포 안 함&quot;이 아니다 &mdash; AAR과 POM은 서로 다른 것을 배포한다 </a> <br>
 <a href ="https://peterica.tistory.com/1078"> [온디바이스AI] 로컬 LLM에서 중요한 것은 CPU가 아니라 메모리다 - 맥미니와 모델 크기의 관계 </a> <br>
 <a href ="https://peterica.tistory.com/1077"> [독후감] 협상의 기술 </a> <br>
-<a href ="https://peterica.tistory.com/1067"> [AI] GPU vs PIM vs NPU - 내 시스템의 병목은 연산인가, 메모리인가 </a> <br>
-<a href ="https://peterica.tistory.com/1076"> [독후감] 죽을 때 후회하는 스물다섯 가지 </a> <br>
-<a href ="https://peterica.tistory.com/1075"> 어디서든 브라우저 VS Code로 마크다운만 떨어뜨리면 LLM 이 개인 위키로 자동 정리 - silva-omnium </a> <br>
