@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://peterica.tistory.com/1079"> [Network] 네트워크 이해를 위한 우체국 편지 비유(feat. network-fundamentals-lab) </a> <br>
-<a href ="https://peterica.tistory.com/1068"> RONCO 모션데스크 메모리형 리모컨 사용방법 </a> <br>
-<a href ="https://peterica.tistory.com/1069"> [생각] 공정은 법을 적용하는 것이 아니라 공동체를 살리는 것이다 - 아피케이아(Epieikeia) </a> <br>
-<a href ="https://peterica.tistory.com/1070"> [Gradle] compileOnly는 &quot;배포 안 함&quot;이 아니다 &mdash; AAR과 POM은 서로 다른 것을 배포한다 </a> <br>
-<a href ="https://peterica.tistory.com/1078"> [온디바이스AI] 로컬 LLM에서 중요한 것은 CPU가 아니라 메모리다 - 맥미니와 모델 크기의 관계 </a> <br>
-<a href ="https://peterica.tistory.com/1077"> [독후감] 협상의 기술 </a> <br>
+<a href ="https://peterica.tistory.com/1086"> [Network] 07. 같은 동네와 다른 동네는 누가 판단할까? </a> <br>
+<a href ="https://peterica.tistory.com/1084"> [Network] 06. IP 주소만 알면 바로 편지를 건넬 수 있을까? </a> <br>
+<a href ="https://peterica.tistory.com/1083"> [Network] 05. 한 건물을 여러 동네로 나눌 수 있을까? </a> <br>
+<a href ="https://peterica.tistory.com/1081"> [Network] 04.길이 원을 그리면 편지는 왜 끝없이 늘어날까? </a> <br>
+<a href ="https://peterica.tistory.com/1082"> [Network] 03. 스위치는 어떻게 편지가 갈 길을 기억할까? </a> <br>
+<a href ="https://peterica.tistory.com/1080"> [Network] 02. 모두가 동시에 말하면 누가 들을 수 있을까? </a> <br>
