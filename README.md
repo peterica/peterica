@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/1093"> [Network] 16. 대화를 시작하기 전에 왜 세 번이나 인사할까? </a> <br>
+<a href ="https://peterica.tistory.com/1092"> [Network] 15. 모든 편지에 수령 확인이 필요할까? </a> <br>
+<a href ="https://peterica.tistory.com/1091"> [Network] 14. 한 컴퓨터의 여러 프로그램은 편지를 어떻게 나눠 받을까? </a> <br>
+<a href ="https://peterica.tistory.com/933"> [Network] 13. 우리는 왜 숫자 대신 이름으로 접속할까? </a> <br>
 <a href ="https://peterica.tistory.com/1090"> [Network] 12. 길이 바뀌면 지도는 어떻게 새로 그려질까? </a> <br>
 <a href ="https://peterica.tistory.com/1089"> [Network] 11. 길을 잃은 편지가 영원히 돌면 어떻게 될까? </a> <br>
-<a href ="https://peterica.tistory.com/1088"> [Network] 10. 가는 길이 있으면 돌아오는 길도 있는 것일까? </a> <br>
-<a href ="https://peterica.tistory.com/1087"> [Network] 09. 라우터는 수많은 목적지의 길을 어떻게 고를까? </a> <br>
-<a href ="https://peterica.tistory.com/1085"> [Network] 08. 다른 동네의 편지는 누구에게 맡겨야 할까? </a> <br>
-<a href ="https://peterica.tistory.com/1086"> [Network] 07. 같은 동네와 다른 동네는 누가 판단할까? </a> <br>
