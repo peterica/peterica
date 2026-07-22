@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/1096"> [Network] 19. 작은 편지는 가는데 큰 소포만 멈추는 이유는 무엇일까? </a> <br>
 <a href ="https://peterica.tistory.com/1095"> [Network] 18. 받는 사람이 감당하지 못할 만큼 보내면 어떻게 될까? </a> <br>
 <a href ="https://peterica.tistory.com/1094"> [Network] 17. 편지가 사라졌다는 사실은 어떻게 알아챌까? </a> <br>
 <a href ="https://peterica.tistory.com/1093"> [Network] 16. 대화를 시작하기 전에 왜 세 번이나 인사할까? </a> <br>
 <a href ="https://peterica.tistory.com/1092"> [Network] 15. 모든 편지에 수령 확인이 필요할까? </a> <br>
 <a href ="https://peterica.tistory.com/1091"> [Network] 14. 한 컴퓨터의 여러 프로그램은 편지를 어떻게 나눠 받을까? </a> <br>
-<a href ="https://peterica.tistory.com/933"> [Network] 13. 우리는 왜 숫자 대신 이름으로 접속할까? </a> <br>
