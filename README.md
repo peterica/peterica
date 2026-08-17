@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/1124"> [AWS Network] 05. Route Table과 Routing - 패킷을 어디로 보낼 것인가? </a> <br>
 <a href ="https://peterica.tistory.com/1123"> [AWS Network] 04. Security Group과 Network ACL </a> <br>
 <a href ="https://peterica.tistory.com/1122"> [AWS Network] 03. IP, ENI 그리고 EC2 - 트래픽은 어디에서 시작할까? </a> <br>
 <a href ="https://peterica.tistory.com/1121"> [AWS Network] 02. VPC와 Subnet - AWS 네트워크의 경계: Account부터 Subnet까지 </a> <br>
 <a href ="https://peterica.tistory.com/1120"> [AWS Network] 01. AWS VPC 네트워킹을 하나의 이야기로 이해하기﻿ </a> <br>
 <a href ="https://peterica.tistory.com/1119"> AWS Network를 어떻게 공부할까? - VPC부터 Transit Gateway, PrivateLink까지 </a> <br>
-<a href ="https://peterica.tistory.com/1118"> [바이브코딩] 04. AI에게도 SDLC가 필요하다 - ChatGPT, Claude, Codex를 팀처럼 일하게 만든 방법 </a> <br>
