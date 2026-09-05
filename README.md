@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/1127"> [AWS Network] 07. ALB, NLB, GWLB를 선택하는 기준 </a> <br>
 <a href ="https://peterica.tistory.com/1126"> Kids English Player - 아이가 직접 고르는 영어 영상 학습 서비스 </a> <br>
 <a href ="https://peterica.tistory.com/1125"> [AWS Network] 06. Internet Gateway와 NAT GatewayVPC는 인터넷과 어떻게 연결되는가? </a> <br>
 <a href ="https://peterica.tistory.com/1124"> [AWS Network] 05. Route Table과 Routing - 패킷을 어디로 보낼 것인가? </a> <br>
 <a href ="https://peterica.tistory.com/1123"> [AWS Network] 04. Security Group과 Network ACL </a> <br>
 <a href ="https://peterica.tistory.com/1122"> [AWS Network] 03. IP, ENI 그리고 EC2 - 트래픽은 어디에서 시작할까? </a> <br>
-<a href ="https://peterica.tistory.com/1121"> [AWS Network] 02. VPC와 Subnet - AWS 네트워크의 경계: Account부터 Subnet까지 </a> <br>
