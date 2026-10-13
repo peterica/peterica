@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/1132"> [AWS Network] 11. VPC Endpoint와 PrivateLink: 네트워크 전체 대신 서비스만 연결하기 </a> <br>
+<a href ="https://peterica.tistory.com/1131"> [AWS Network] 10. Transit Gateway: 연결과 Routing 정책을 분리해서 이해하기 </a> <br>
+<a href ="https://peterica.tistory.com/1130"> [AWS Network] 09. VPN과 Direct Connect를 우열이 아닌 요구사항으로 선택하기 </a> <br>
+<a href ="https://peterica.tistory.com/1129"> [AWS Network] 08. VPC Peering은 왜 직접 연결이고 Transit은 아닌가 </a> <br>
 <a href ="https://peterica.tistory.com/1128"> [독후감] 세상이 그대를 속일지라도 </a> <br>
 <a href ="https://peterica.tistory.com/1127"> [AWS Network] 07. ALB, NLB, GWLB를 선택하는 기준 </a> <br>
-<a href ="https://peterica.tistory.com/1126"> Kids English Player - 아이가 직접 고르는 영어 영상 학습 서비스 </a> <br>
-<a href ="https://peterica.tistory.com/1125"> [AWS Network] 06. Internet Gateway와 NAT GatewayVPC는 인터넷과 어떻게 연결되는가? </a> <br>
-<a href ="https://peterica.tistory.com/1124"> [AWS Network] 05. Route Table과 Routing - 패킷을 어디로 보낼 것인가? </a> <br>
-<a href ="https://peterica.tistory.com/1123"> [AWS Network] 04. Security Group과 Network ACL </a> <br>
