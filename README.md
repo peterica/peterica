@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://peterica.tistory.com/1136"> [ 라이딩 스토리] 동해안 국토종주 완주, 2박 3일간의 400.9km 라이딩 </a> <br>
 <a href ="https://peterica.tistory.com/1135"> [ 라이딩 스토리] 북한강 국토종주 완주, 춘천-서울 116.8km 라이딩 </a> <br>
+<a href ="https://peterica.tistory.com/1134"> [ 라이딩 스토리] 서울-부산 국토종주 완주, 3일간의 558km 라이딩 </a> <br>
 <a href ="https://peterica.tistory.com/1133"> [독후감] 필연적 혼자의 시대 </a> <br>
 <a href ="https://peterica.tistory.com/1132"> [AWS Network] 11. VPC Endpoint와 PrivateLink: 네트워크 전체 대신 서비스만 연결하기 </a> <br>
 <a href ="https://peterica.tistory.com/1131"> [AWS Network] 10. Transit Gateway: 연결과 Routing 정책을 분리해서 이해하기 </a> <br>
-<a href ="https://peterica.tistory.com/1130"> [AWS Network] 09. VPN과 Direct Connect를 우열이 아닌 요구사항으로 선택하기 </a> <br>
-<a href ="https://peterica.tistory.com/1129"> [AWS Network] 08. VPC Peering은 왜 직접 연결이고 Transit은 아닌가 </a> <br>
